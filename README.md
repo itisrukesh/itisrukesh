@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new technologies and languages in Professional Career at SaptangLabs under cybersecurity domain.
 - 💞️ I’m looking to collaborate on Any Domain just want to explore more on computers...!
 - 📫 How to reach me! : itisrukesh@yahoo.com 😁
-- ✅ I am familiar with Monolith and Microservices with following:
+- ✅ I am familiar with Monolithic and Microservices with following:
         -- Tech-stack: Python, golang, javascript, c/c++.
         -- Frameworks : Python(Flask, Django, FastAPI), Go(Fiber, Gin, net/http).
         -- Web Servers : Nginx, Caddy.
