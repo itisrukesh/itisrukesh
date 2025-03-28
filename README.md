@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itisrukesh
+- 👋 Hi, I’m Rukesh Kumar @itisrukesh
 - 👀 I’m interested in Software Engineering | Python Developer | System Design | Web Development 
 - 🌱 I’m currently learning new technologies and languages in Professional Career at cybersecurity domain.
 - 👨🏼‍💼 Started my Career at 2022 as a intern - currently working as Employee - SAPTANG-LABS.
