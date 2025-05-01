@@ -6,7 +6,7 @@
 - 📫 How to reach me! : itisrukesh@yahoo.com 😁
 - ✅ I am familiar with Monolithic and Microservices with following:
         -- Tech-stack: Python, golang, javascript, c/c++.
-        -- Frameworks : Python(Flask, Django, FastAPI), Go(Fiber, Gin, net/http).
+        -- Frameworks : Python(Flask), Go(Fiber, Gin, net/http).
         -- Web Servers : Nginx, Caddy.
         -- Databases : MongoDB, MySql, MinIO, Redis.
         -- OS Platform : linux/Ubuntu.
